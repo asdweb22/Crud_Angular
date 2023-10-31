@@ -6,7 +6,7 @@ Day:Thursday
 --------------------------------------------------------------
 
 
-Create project first
+Create  first project
 ----------------------
 -ng-new crud-app
 -cd crud-app
