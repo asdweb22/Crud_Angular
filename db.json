@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "shubham",
+      "lastName": "kumar",
+      "email": "sk22@gmail.com",
+      "dob": "1998-12-20T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Intermediate",
+      "company": "cloud.in",
+      "experience": "7",
+      "package": "25",
+      "id": 1
+    },
+    {
+      "firstName": "Avinash",
+      "lastName": "Walhekar",
+      "email": "aw22@gmail.com",
+      "dob": "1998-11-20T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Post Graduation",
+      "company": "EFDH",
+      "experience": "4",
+      "package": "12",
+      "id": 2
+    },
+    {
+      "firstName": "Vedang",
+      "lastName": "Tembe",
+      "email": "vt23@gmail.com",
+      "dob": "1998-11-22T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Post Graduation",
+      "company": "virtuality",
+      "experience": "4",
+      "package": "24",
+      "id": 3
+    },
+    {
+      "firstName": "Rajesh",
+      "lastName": "Mehra",
+      "email": "em22@gmail.com",
+      "dob": "2016-06-07T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Graduation",
+      "company": "abc",
+      "experience": "4",
+      "package": "5",
+      "id": 4
+    },
+    {
+      "firstName": "Reema",
+      "lastName": "jadhav",
+      "email": "rj32@gmail.com",
+      "dob": "2010-07-07T18:30:00.000Z",
+      "gender": "Female",
+      "education": "Graduation",
+      "company": "pqr",
+      "experience": "3",
+      "package": "6",
+      "id": 5
+    },
+    {
+      "firstName": "kiram",
+      "lastName": "sharma",
+      "email": "ks22@gmail.com",
+      "dob": "2020-07-07T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Intermediate",
+      "company": "teqfocus",
+      "experience": "2",
+      "package": "4",
+      "id": 6
+    }
+  ]
+}
